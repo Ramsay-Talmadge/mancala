@@ -2,7 +2,11 @@
 
 Made this to practice using Claude Code and because I enjoy mancala.
 
-A browser-based implementation of the classic Mancala board game. No installs, no dependencies — just open `index.html`.
+> Built with [Claude Code](https://claude.ai/code) as a practice project for using AI-assisted development tools.
+
+A browser-based implementation of the classic Mancala board game. No installs, no dependencies.
+
+**Play it here: https://ramsay-talmadge.github.io/mancala**
 
 ## How to Play
 
