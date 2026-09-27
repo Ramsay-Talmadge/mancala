@@ -1,5 +1,7 @@
 # Mancala
 
+Made this to practice using Claude Code and because I enjoy mancala.
+
 A browser-based implementation of the classic Mancala board game. No installs, no dependencies — just open `index.html`.
 
 ## How to Play
